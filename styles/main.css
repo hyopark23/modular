@@ -1,0 +1,44 @@
+*{ box-sizing: border-box; }
+
+a {
+  text-decoration: none;
+}
+
+ol li {
+  list-style: none;
+}
+
+span {
+  display: block;
+  max-width: 200px;
+  margin: 0 auto 30px;
+  font-weight: 800;
+}
+
+.compare-button {
+  display: block;
+  max-width: 200px;
+  font-weight: 600; 
+  border: 5px;
+  width: 100px;
+  padding: 9px;
+  text-align: center;
+  border-style: solid;
+  border-width: thin;
+}
+
+p {
+  font-family: Arial, Verdana, serif;
+  color: black;
+}
+
+.price {
+  font-weight: 100;
+}
+
+.image {
+  display: block;
+  max-width: 200px;
+  margin: 0 auto 30px;
+}
+
